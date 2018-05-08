@@ -1,4 +1,5 @@
 
+
 import java.util.*;
 
 public class driver
@@ -38,6 +39,9 @@ public class driver
     			  case 4:
     				 System.out.println("Casual staff");
     				break;
+                      case 5:
+                     System.out.println("Exit"!);
+                    break;
     			  }
     	    }
     	else {
